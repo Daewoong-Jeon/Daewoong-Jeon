@@ -16,8 +16,3 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=FFFFFF"/></a><br/>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=FFFFFF"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=FFFFFF"/></a>
-
-<h3 align="center">🚀 42 Seoul 🚀</h3>  
-<hr/>  
-![djeon's 42 stats](https://badge42.herokuapp.com/api/stats/djeon)](https://github.com/JaeSeoKim/badge42)
-<hr/>  
