@@ -19,5 +19,5 @@
 
 <h3 align="center">🚀 42 Seoul 🚀</h3>  
 <hr/>  
-[![djeon's 42 stats](https://badge42.herokuapp.com/api/stats/djeon)](https://github.com/JaeSeoKim/badge42)
+![djeon's 42 stats](https://badge42.herokuapp.com/api/stats/djeon)](https://github.com/JaeSeoKim/badge42)
 <hr/>  
